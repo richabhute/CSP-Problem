@@ -1,3 +1,4 @@
+
 public class CSPGraphColoring extends CSP {
 	
 	public boolean isGood(Object X, Object Y, Object x, Object y) {
