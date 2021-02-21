@@ -115,9 +115,5 @@ public class CSP_Puzzle extends CSP {
 
 
 
-//String.valueOf(number)
-
-
-
 
 
