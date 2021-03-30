@@ -1,7 +1,7 @@
 
 public class CSPGraphColoring extends CSP {
 	
-	public boolean isGood(Object X, Object Y, Object x, Object y) {
+	public boolean isGood(Object X,  Object Y, Object x, Object y) {
 		//if X is not even mentioned in by the constraints, just return true
 		//as nothing can be violated
 		if(!C.containsKey(X))
